@@ -1,0 +1,30 @@
+C:\Users\sahin\source\repos\vurmaCedveli\vurmaCedveli\bin\Debug\net6.0\vurmaCedveli.exe
+C:\Users\sahin\source\repos\vurmaCedveli\vurmaCedveli\bin\Debug\net6.0\vurmaCedveli.deps.json
+C:\Users\sahin\source\repos\vurmaCedveli\vurmaCedveli\bin\Debug\net6.0\vurmaCedveli.runtimeconfig.json
+C:\Users\sahin\source\repos\vurmaCedveli\vurmaCedveli\bin\Debug\net6.0\vurmaCedveli.dll
+C:\Users\sahin\source\repos\vurmaCedveli\vurmaCedveli\bin\Debug\net6.0\vurmaCedveli.pdb
+C:\Users\sahin\source\repos\vurmaCedveli\vurmaCedveli\obj\Debug\net6.0\vurmaCedveli.csproj.AssemblyReference.cache
+C:\Users\sahin\source\repos\vurmaCedveli\vurmaCedveli\obj\Debug\net6.0\vurmaCedveli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahin\source\repos\vurmaCedveli\vurmaCedveli\obj\Debug\net6.0\vurmaCedveli.AssemblyInfoInputs.cache
+C:\Users\sahin\source\repos\vurmaCedveli\vurmaCedveli\obj\Debug\net6.0\vurmaCedveli.AssemblyInfo.cs
+C:\Users\sahin\source\repos\vurmaCedveli\vurmaCedveli\obj\Debug\net6.0\vurmaCedveli.csproj.CoreCompileInputs.cache
+C:\Users\sahin\source\repos\vurmaCedveli\vurmaCedveli\obj\Debug\net6.0\vurmaCedveli.dll
+C:\Users\sahin\source\repos\vurmaCedveli\vurmaCedveli\obj\Debug\net6.0\refint\vurmaCedveli.dll
+C:\Users\sahin\source\repos\vurmaCedveli\vurmaCedveli\obj\Debug\net6.0\vurmaCedveli.pdb
+C:\Users\sahin\source\repos\vurmaCedveli\vurmaCedveli\obj\Debug\net6.0\vurmaCedveli.genruntimeconfig.cache
+C:\Users\sahin\source\repos\vurmaCedveli\vurmaCedveli\obj\Debug\net6.0\ref\vurmaCedveli.dll
+C:\Users\sahin\OneDrive\Рабочий стол\testRepo\vurmaCedveli\vurmaCedveli\bin\Debug\net6.0\vurmaCedveli.exe
+C:\Users\sahin\OneDrive\Рабочий стол\testRepo\vurmaCedveli\vurmaCedveli\bin\Debug\net6.0\vurmaCedveli.deps.json
+C:\Users\sahin\OneDrive\Рабочий стол\testRepo\vurmaCedveli\vurmaCedveli\bin\Debug\net6.0\vurmaCedveli.runtimeconfig.json
+C:\Users\sahin\OneDrive\Рабочий стол\testRepo\vurmaCedveli\vurmaCedveli\bin\Debug\net6.0\vurmaCedveli.dll
+C:\Users\sahin\OneDrive\Рабочий стол\testRepo\vurmaCedveli\vurmaCedveli\bin\Debug\net6.0\vurmaCedveli.pdb
+C:\Users\sahin\OneDrive\Рабочий стол\testRepo\vurmaCedveli\vurmaCedveli\obj\Debug\net6.0\vurmaCedveli.csproj.AssemblyReference.cache
+C:\Users\sahin\OneDrive\Рабочий стол\testRepo\vurmaCedveli\vurmaCedveli\obj\Debug\net6.0\vurmaCedveli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahin\OneDrive\Рабочий стол\testRepo\vurmaCedveli\vurmaCedveli\obj\Debug\net6.0\vurmaCedveli.AssemblyInfoInputs.cache
+C:\Users\sahin\OneDrive\Рабочий стол\testRepo\vurmaCedveli\vurmaCedveli\obj\Debug\net6.0\vurmaCedveli.AssemblyInfo.cs
+C:\Users\sahin\OneDrive\Рабочий стол\testRepo\vurmaCedveli\vurmaCedveli\obj\Debug\net6.0\vurmaCedveli.csproj.CoreCompileInputs.cache
+C:\Users\sahin\OneDrive\Рабочий стол\testRepo\vurmaCedveli\vurmaCedveli\obj\Debug\net6.0\vurmaCedveli.dll
+C:\Users\sahin\OneDrive\Рабочий стол\testRepo\vurmaCedveli\vurmaCedveli\obj\Debug\net6.0\refint\vurmaCedveli.dll
+C:\Users\sahin\OneDrive\Рабочий стол\testRepo\vurmaCedveli\vurmaCedveli\obj\Debug\net6.0\vurmaCedveli.pdb
+C:\Users\sahin\OneDrive\Рабочий стол\testRepo\vurmaCedveli\vurmaCedveli\obj\Debug\net6.0\vurmaCedveli.genruntimeconfig.cache
+C:\Users\sahin\OneDrive\Рабочий стол\testRepo\vurmaCedveli\vurmaCedveli\obj\Debug\net6.0\ref\vurmaCedveli.dll
