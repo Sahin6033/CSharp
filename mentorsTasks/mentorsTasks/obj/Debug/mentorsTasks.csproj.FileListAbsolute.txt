@@ -1,0 +1,8 @@
+C:\Users\sahin\source\repos\mentorsTasks\mentorsTasks\bin\Debug\mentorsTasks.exe.config
+C:\Users\sahin\source\repos\mentorsTasks\mentorsTasks\bin\Debug\mentorsTasks.exe
+C:\Users\sahin\source\repos\mentorsTasks\mentorsTasks\bin\Debug\mentorsTasks.pdb
+C:\Users\sahin\source\repos\mentorsTasks\mentorsTasks\obj\Debug\mentorsTasks.csproj.AssemblyReference.cache
+C:\Users\sahin\source\repos\mentorsTasks\mentorsTasks\obj\Debug\mentorsTasks.csproj.SuggestedBindingRedirects.cache
+C:\Users\sahin\source\repos\mentorsTasks\mentorsTasks\obj\Debug\mentorsTasks.csproj.CoreCompileInputs.cache
+C:\Users\sahin\source\repos\mentorsTasks\mentorsTasks\obj\Debug\mentorsTasks.exe
+C:\Users\sahin\source\repos\mentorsTasks\mentorsTasks\obj\Debug\mentorsTasks.pdb

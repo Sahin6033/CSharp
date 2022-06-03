@@ -1,0 +1,8 @@
+C:\Users\sahin\source\repos\mentorsTasks\ForLoop\bin\Debug\ForLoop.exe.config
+C:\Users\sahin\source\repos\mentorsTasks\ForLoop\bin\Debug\ForLoop.exe
+C:\Users\sahin\source\repos\mentorsTasks\ForLoop\bin\Debug\ForLoop.pdb
+C:\Users\sahin\source\repos\mentorsTasks\ForLoop\obj\Debug\ForLoop.csproj.AssemblyReference.cache
+C:\Users\sahin\source\repos\mentorsTasks\ForLoop\obj\Debug\ForLoop.csproj.SuggestedBindingRedirects.cache
+C:\Users\sahin\source\repos\mentorsTasks\ForLoop\obj\Debug\ForLoop.csproj.CoreCompileInputs.cache
+C:\Users\sahin\source\repos\mentorsTasks\ForLoop\obj\Debug\ForLoop.exe
+C:\Users\sahin\source\repos\mentorsTasks\ForLoop\obj\Debug\ForLoop.pdb
