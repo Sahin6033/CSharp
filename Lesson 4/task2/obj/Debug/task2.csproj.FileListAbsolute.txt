@@ -1,0 +1,16 @@
+C:\Users\sahin\source\repos\task2\task2\bin\Debug\task2.exe.config
+C:\Users\sahin\source\repos\task2\task2\bin\Debug\task2.exe
+C:\Users\sahin\source\repos\task2\task2\bin\Debug\task2.pdb
+C:\Users\sahin\source\repos\task2\task2\obj\Debug\task2.csproj.AssemblyReference.cache
+C:\Users\sahin\source\repos\task2\task2\obj\Debug\task2.csproj.SuggestedBindingRedirects.cache
+C:\Users\sahin\source\repos\task2\task2\obj\Debug\task2.csproj.CoreCompileInputs.cache
+C:\Users\sahin\source\repos\task2\task2\obj\Debug\task2.exe
+C:\Users\sahin\source\repos\task2\task2\obj\Debug\task2.pdb
+C:\Users\sahin\source\repos\Lesson 4\task2\bin\Debug\task2.exe.config
+C:\Users\sahin\source\repos\Lesson 4\task2\bin\Debug\task2.exe
+C:\Users\sahin\source\repos\Lesson 4\task2\bin\Debug\task2.pdb
+C:\Users\sahin\source\repos\Lesson 4\task2\obj\Debug\task2.csproj.AssemblyReference.cache
+C:\Users\sahin\source\repos\Lesson 4\task2\obj\Debug\task2.csproj.SuggestedBindingRedirects.cache
+C:\Users\sahin\source\repos\Lesson 4\task2\obj\Debug\task2.csproj.CoreCompileInputs.cache
+C:\Users\sahin\source\repos\Lesson 4\task2\obj\Debug\task2.exe
+C:\Users\sahin\source\repos\Lesson 4\task2\obj\Debug\task2.pdb
