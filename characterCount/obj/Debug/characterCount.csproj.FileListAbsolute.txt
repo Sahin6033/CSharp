@@ -1,0 +1,8 @@
+C:\Users\sahin\source\repos\lab2\characterCount\bin\Debug\characterCount.exe.config
+C:\Users\sahin\source\repos\lab2\characterCount\bin\Debug\characterCount.exe
+C:\Users\sahin\source\repos\lab2\characterCount\bin\Debug\characterCount.pdb
+C:\Users\sahin\source\repos\lab2\characterCount\obj\Debug\characterCount.csproj.AssemblyReference.cache
+C:\Users\sahin\source\repos\lab2\characterCount\obj\Debug\characterCount.csproj.SuggestedBindingRedirects.cache
+C:\Users\sahin\source\repos\lab2\characterCount\obj\Debug\characterCount.csproj.CoreCompileInputs.cache
+C:\Users\sahin\source\repos\lab2\characterCount\obj\Debug\characterCount.exe
+C:\Users\sahin\source\repos\lab2\characterCount\obj\Debug\characterCount.pdb

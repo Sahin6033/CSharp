@@ -1,0 +1,8 @@
+C:\Users\sahin\source\repos\lab2\FindCharIndex\bin\Debug\FindCharIndex.exe.config
+C:\Users\sahin\source\repos\lab2\FindCharIndex\bin\Debug\FindCharIndex.exe
+C:\Users\sahin\source\repos\lab2\FindCharIndex\bin\Debug\FindCharIndex.pdb
+C:\Users\sahin\source\repos\lab2\FindCharIndex\obj\Debug\FindCharIndex.csproj.AssemblyReference.cache
+C:\Users\sahin\source\repos\lab2\FindCharIndex\obj\Debug\FindCharIndex.csproj.SuggestedBindingRedirects.cache
+C:\Users\sahin\source\repos\lab2\FindCharIndex\obj\Debug\FindCharIndex.csproj.CoreCompileInputs.cache
+C:\Users\sahin\source\repos\lab2\FindCharIndex\obj\Debug\FindCharIndex.exe
+C:\Users\sahin\source\repos\lab2\FindCharIndex\obj\Debug\FindCharIndex.pdb

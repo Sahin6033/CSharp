@@ -1,0 +1,8 @@
+C:\Users\sahin\source\repos\lab2\IsPrime\bin\Debug\IsPrime.exe.config
+C:\Users\sahin\source\repos\lab2\IsPrime\bin\Debug\IsPrime.exe
+C:\Users\sahin\source\repos\lab2\IsPrime\bin\Debug\IsPrime.pdb
+C:\Users\sahin\source\repos\lab2\IsPrime\obj\Debug\IsPrime.csproj.AssemblyReference.cache
+C:\Users\sahin\source\repos\lab2\IsPrime\obj\Debug\IsPrime.csproj.SuggestedBindingRedirects.cache
+C:\Users\sahin\source\repos\lab2\IsPrime\obj\Debug\IsPrime.csproj.CoreCompileInputs.cache
+C:\Users\sahin\source\repos\lab2\IsPrime\obj\Debug\IsPrime.exe
+C:\Users\sahin\source\repos\lab2\IsPrime\obj\Debug\IsPrime.pdb

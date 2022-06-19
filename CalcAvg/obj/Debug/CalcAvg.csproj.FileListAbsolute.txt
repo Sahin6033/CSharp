@@ -1,0 +1,8 @@
+C:\Users\sahin\source\repos\lab2\CalcAvg\bin\Debug\CalcAvg.exe.config
+C:\Users\sahin\source\repos\lab2\CalcAvg\bin\Debug\CalcAvg.exe
+C:\Users\sahin\source\repos\lab2\CalcAvg\bin\Debug\CalcAvg.pdb
+C:\Users\sahin\source\repos\lab2\CalcAvg\obj\Debug\CalcAvg.csproj.AssemblyReference.cache
+C:\Users\sahin\source\repos\lab2\CalcAvg\obj\Debug\CalcAvg.csproj.SuggestedBindingRedirects.cache
+C:\Users\sahin\source\repos\lab2\CalcAvg\obj\Debug\CalcAvg.csproj.CoreCompileInputs.cache
+C:\Users\sahin\source\repos\lab2\CalcAvg\obj\Debug\CalcAvg.exe
+C:\Users\sahin\source\repos\lab2\CalcAvg\obj\Debug\CalcAvg.pdb
