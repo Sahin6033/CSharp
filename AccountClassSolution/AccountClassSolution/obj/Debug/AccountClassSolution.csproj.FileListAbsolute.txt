@@ -1,0 +1,8 @@
+C:\Users\sahin\source\repos\AccountClassSolution\AccountClassSolution\bin\Debug\AccountClassSolution.exe.config
+C:\Users\sahin\source\repos\AccountClassSolution\AccountClassSolution\bin\Debug\AccountClassSolution.exe
+C:\Users\sahin\source\repos\AccountClassSolution\AccountClassSolution\bin\Debug\AccountClassSolution.pdb
+C:\Users\sahin\source\repos\AccountClassSolution\AccountClassSolution\obj\Debug\AccountClassSolution.csproj.AssemblyReference.cache
+C:\Users\sahin\source\repos\AccountClassSolution\AccountClassSolution\obj\Debug\AccountClassSolution.csproj.SuggestedBindingRedirects.cache
+C:\Users\sahin\source\repos\AccountClassSolution\AccountClassSolution\obj\Debug\AccountClassSolution.csproj.CoreCompileInputs.cache
+C:\Users\sahin\source\repos\AccountClassSolution\AccountClassSolution\obj\Debug\AccountClassSolution.exe
+C:\Users\sahin\source\repos\AccountClassSolution\AccountClassSolution\obj\Debug\AccountClassSolution.pdb
