@@ -1,0 +1,8 @@
+C:\Users\sahin\source\repos\task_5_Class_and_ArrayList\task_5_Class_and_ArrayList\bin\Debug\task_5_Class_and_ArrayList.exe.config
+C:\Users\sahin\source\repos\task_5_Class_and_ArrayList\task_5_Class_and_ArrayList\bin\Debug\task_5_Class_and_ArrayList.exe
+C:\Users\sahin\source\repos\task_5_Class_and_ArrayList\task_5_Class_and_ArrayList\bin\Debug\task_5_Class_and_ArrayList.pdb
+C:\Users\sahin\source\repos\task_5_Class_and_ArrayList\task_5_Class_and_ArrayList\obj\Debug\task_5_Class_and_ArrayList.csproj.AssemblyReference.cache
+C:\Users\sahin\source\repos\task_5_Class_and_ArrayList\task_5_Class_and_ArrayList\obj\Debug\task_5_Class_and_ArrayList.csproj.SuggestedBindingRedirects.cache
+C:\Users\sahin\source\repos\task_5_Class_and_ArrayList\task_5_Class_and_ArrayList\obj\Debug\task_5_Class_and_ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\sahin\source\repos\task_5_Class_and_ArrayList\task_5_Class_and_ArrayList\obj\Debug\task_5_Class_and_ArrayList.exe
+C:\Users\sahin\source\repos\task_5_Class_and_ArrayList\task_5_Class_and_ArrayList\obj\Debug\task_5_Class_and_ArrayList.pdb
