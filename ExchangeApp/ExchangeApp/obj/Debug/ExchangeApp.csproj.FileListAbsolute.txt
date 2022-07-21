@@ -1,0 +1,8 @@
+C:\Users\sahin\source\repos\ExchangeApp\ExchangeApp\obj\Debug\ExchangeApp.csproj.AssemblyReference.cache
+C:\Users\sahin\source\repos\ExchangeApp\ExchangeApp\obj\Debug\ExchangeApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\sahin\source\repos\ExchangeApp\ExchangeApp\obj\Debug\ExchangeApp.csproj.CoreCompileInputs.cache
+C:\Users\sahin\source\repos\ExchangeApp\ExchangeApp\bin\Debug\ExchangeApp.exe.config
+C:\Users\sahin\source\repos\ExchangeApp\ExchangeApp\bin\Debug\ExchangeApp.exe
+C:\Users\sahin\source\repos\ExchangeApp\ExchangeApp\bin\Debug\ExchangeApp.pdb
+C:\Users\sahin\source\repos\ExchangeApp\ExchangeApp\obj\Debug\ExchangeApp.exe
+C:\Users\sahin\source\repos\ExchangeApp\ExchangeApp\obj\Debug\ExchangeApp.pdb
