@@ -1,0 +1,8 @@
+C:\Users\sahin\source\repos\14_07_2022_tasks\UniqCollection\bin\Debug\UniqCollection.exe.config
+C:\Users\sahin\source\repos\14_07_2022_tasks\UniqCollection\bin\Debug\UniqCollection.exe
+C:\Users\sahin\source\repos\14_07_2022_tasks\UniqCollection\bin\Debug\UniqCollection.pdb
+C:\Users\sahin\source\repos\14_07_2022_tasks\UniqCollection\obj\Debug\UniqCollection.csproj.AssemblyReference.cache
+C:\Users\sahin\source\repos\14_07_2022_tasks\UniqCollection\obj\Debug\UniqCollection.csproj.SuggestedBindingRedirects.cache
+C:\Users\sahin\source\repos\14_07_2022_tasks\UniqCollection\obj\Debug\UniqCollection.csproj.CoreCompileInputs.cache
+C:\Users\sahin\source\repos\14_07_2022_tasks\UniqCollection\obj\Debug\UniqCollection.exe
+C:\Users\sahin\source\repos\14_07_2022_tasks\UniqCollection\obj\Debug\UniqCollection.pdb

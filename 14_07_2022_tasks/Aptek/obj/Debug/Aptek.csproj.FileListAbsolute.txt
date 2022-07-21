@@ -1,0 +1,8 @@
+C:\Users\sahin\source\repos\14_07_2022_tasks\Aptek\bin\Debug\Aptek.exe.config
+C:\Users\sahin\source\repos\14_07_2022_tasks\Aptek\bin\Debug\Aptek.exe
+C:\Users\sahin\source\repos\14_07_2022_tasks\Aptek\bin\Debug\Aptek.pdb
+C:\Users\sahin\source\repos\14_07_2022_tasks\Aptek\obj\Debug\Aptek.csproj.AssemblyReference.cache
+C:\Users\sahin\source\repos\14_07_2022_tasks\Aptek\obj\Debug\Aptek.csproj.SuggestedBindingRedirects.cache
+C:\Users\sahin\source\repos\14_07_2022_tasks\Aptek\obj\Debug\Aptek.csproj.CoreCompileInputs.cache
+C:\Users\sahin\source\repos\14_07_2022_tasks\Aptek\obj\Debug\Aptek.exe
+C:\Users\sahin\source\repos\14_07_2022_tasks\Aptek\obj\Debug\Aptek.pdb

@@ -1,0 +1,8 @@
+C:\Users\sahin\source\repos\14_07_2022_tasks\14_07_2022_tasks\bin\Debug\14_07_2022_tasks.exe.config
+C:\Users\sahin\source\repos\14_07_2022_tasks\14_07_2022_tasks\bin\Debug\14_07_2022_tasks.exe
+C:\Users\sahin\source\repos\14_07_2022_tasks\14_07_2022_tasks\bin\Debug\14_07_2022_tasks.pdb
+C:\Users\sahin\source\repos\14_07_2022_tasks\14_07_2022_tasks\obj\Debug\14_07_2022_tasks.csproj.AssemblyReference.cache
+C:\Users\sahin\source\repos\14_07_2022_tasks\14_07_2022_tasks\obj\Debug\14_07_2022_tasks.csproj.SuggestedBindingRedirects.cache
+C:\Users\sahin\source\repos\14_07_2022_tasks\14_07_2022_tasks\obj\Debug\14_07_2022_tasks.csproj.CoreCompileInputs.cache
+C:\Users\sahin\source\repos\14_07_2022_tasks\14_07_2022_tasks\obj\Debug\14_07_2022_tasks.exe
+C:\Users\sahin\source\repos\14_07_2022_tasks\14_07_2022_tasks\obj\Debug\14_07_2022_tasks.pdb
