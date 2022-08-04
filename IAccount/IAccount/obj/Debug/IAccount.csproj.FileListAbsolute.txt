@@ -1,0 +1,8 @@
+C:\Users\sahin\source\repos\IAccount\IAccount\obj\Debug\IAccount.csproj.AssemblyReference.cache
+C:\Users\sahin\source\repos\IAccount\IAccount\obj\Debug\IAccount.csproj.SuggestedBindingRedirects.cache
+C:\Users\sahin\source\repos\IAccount\IAccount\obj\Debug\IAccount.csproj.CoreCompileInputs.cache
+C:\Users\sahin\source\repos\IAccount\IAccount\bin\Debug\IAccount.exe.config
+C:\Users\sahin\source\repos\IAccount\IAccount\bin\Debug\IAccount.exe
+C:\Users\sahin\source\repos\IAccount\IAccount\bin\Debug\IAccount.pdb
+C:\Users\sahin\source\repos\IAccount\IAccount\obj\Debug\IAccount.exe
+C:\Users\sahin\source\repos\IAccount\IAccount\obj\Debug\IAccount.pdb

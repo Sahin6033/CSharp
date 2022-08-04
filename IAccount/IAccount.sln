@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IAccount", "IAccount\IAccount.csproj", "{DA8522EB-7068-49E1-BF52-F50CE771CCE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IFigure", "IFigure\IFigure.csproj", "{CE5502EB-267C-4721-8A54-D74BD0767169}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA8522EB-7068-49E1-BF52-F50CE771CCE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA8522EB-7068-49E1-BF52-F50CE771CCE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA8522EB-7068-49E1-BF52-F50CE771CCE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA8522EB-7068-49E1-BF52-F50CE771CCE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE5502EB-267C-4721-8A54-D74BD0767169}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE5502EB-267C-4721-8A54-D74BD0767169}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE5502EB-267C-4721-8A54-D74BD0767169}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE5502EB-267C-4721-8A54-D74BD0767169}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B74C8BC-85D4-41F3-9CDC-1F393B842492}
+	EndGlobalSection
+EndGlobal

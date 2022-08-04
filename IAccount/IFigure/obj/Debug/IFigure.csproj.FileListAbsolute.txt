@@ -1,0 +1,8 @@
+C:\Users\sahin\source\repos\IAccount\IFigure\bin\Debug\IFigure.exe.config
+C:\Users\sahin\source\repos\IAccount\IFigure\bin\Debug\IFigure.exe
+C:\Users\sahin\source\repos\IAccount\IFigure\bin\Debug\IFigure.pdb
+C:\Users\sahin\source\repos\IAccount\IFigure\obj\Debug\IFigure.csproj.AssemblyReference.cache
+C:\Users\sahin\source\repos\IAccount\IFigure\obj\Debug\IFigure.csproj.SuggestedBindingRedirects.cache
+C:\Users\sahin\source\repos\IAccount\IFigure\obj\Debug\IFigure.csproj.CoreCompileInputs.cache
+C:\Users\sahin\source\repos\IAccount\IFigure\obj\Debug\IFigure.exe
+C:\Users\sahin\source\repos\IAccount\IFigure\obj\Debug\IFigure.pdb
