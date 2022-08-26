@@ -1,0 +1,8 @@
+C:\Users\sahin\source\repos\KassaDelegete\KassaDelegete\bin\Debug\KassaDelegete.exe.config
+C:\Users\sahin\source\repos\KassaDelegete\KassaDelegete\bin\Debug\KassaDelegete.exe
+C:\Users\sahin\source\repos\KassaDelegete\KassaDelegete\bin\Debug\KassaDelegete.pdb
+C:\Users\sahin\source\repos\KassaDelegete\KassaDelegete\obj\Debug\KassaDelegete.csproj.AssemblyReference.cache
+C:\Users\sahin\source\repos\KassaDelegete\KassaDelegete\obj\Debug\KassaDelegete.csproj.SuggestedBindingRedirects.cache
+C:\Users\sahin\source\repos\KassaDelegete\KassaDelegete\obj\Debug\KassaDelegete.csproj.CoreCompileInputs.cache
+C:\Users\sahin\source\repos\KassaDelegete\KassaDelegete\obj\Debug\KassaDelegete.exe
+C:\Users\sahin\source\repos\KassaDelegete\KassaDelegete\obj\Debug\KassaDelegete.pdb
